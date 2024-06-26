@@ -6,8 +6,8 @@ This is a project about
 ## Project Overview ##
 
 
-# Installation instructions
+## Installation instructions ##
 
-# Usage Guidelines
+## Usage Guidelines ##
 
-# Contribution Guidelines
+## Contribution Guidelines ##
