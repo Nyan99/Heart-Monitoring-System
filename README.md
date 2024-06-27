@@ -1,6 +1,6 @@
-# SE-project
+# Heart-Disease-Detection
 
-This is a project about 
+This is a project about Heart Diesease Detection
 
 
 ## Project Overview ##
