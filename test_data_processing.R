@@ -72,4 +72,5 @@ test_that("Full data processing pipeline works correctly", {
 
 
 ##To do the testing
+#To run the tests, you can execute the script directly in RStudio or use the test_file() function from the testthat package in R console:
 testthat::test_file("C:/Users/User/OneDrive/Documents/KT24602 SE/Software Project/test_data_processing.R")
