@@ -20,7 +20,7 @@ how to load:
 - This Heart-Disease-Detection Project contains a set of code for loading the dataset, statistics, analysis and test run.
 - Adjust and modify the code as needed to suit your requirements.
 - You are welcome to document any finding or insight that you find from your own analysis in this README.md file.
-- Please refrain from modifying other parts of the project. ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+- Please refrain from modifying other parts of the project. 
 
 ## Contribution Guidelines ##
 
